@@ -1,0 +1,20 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "init": "^0.1.2",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.15",
+    "run": "^1.4.0"
+  }
+}
